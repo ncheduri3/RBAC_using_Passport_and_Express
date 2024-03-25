@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "buildthatfire@13",
+    "password": "***",
     "database": "dev",
     "host": "localhost",
     "dialect": "mysql",
