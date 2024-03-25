@@ -1,3 +1,5 @@
+This is an exceprt of the contribution that I made to the project NORP. I am resusing the readme file from the project. I do not own the 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -47,21 +49,5 @@ NOTE: Since we have a custom server routing as well as Next.js routing, we need 
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-## Commit message style
-
-We plan to use the following commit message format:
-- `feat`: The new feature added to application
-- `fix`: A bug fix
-- `style`: Feature and updates related to styling
-- `refactor`: Refactoring a specific section of the codebase
-- `test`: Everything related to testing
-- `docs`: Everything related to documentation
-- `chore`: Regular code maintenance
 
