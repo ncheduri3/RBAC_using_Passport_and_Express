@@ -1,0 +1,28 @@
+.nav_container {
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-bottom: #f8b224;
+	position: sticky;
+}
+
+.nav_item_container {
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.nav_item {
+	text-transform: capitalize;
+	color: gray;
+	text-decoration: none;
+	padding: 5px 10px;
+	border-bottom: 3px solid transparent;
+}
+
+.nav_item_active {
+	color: black;
+	border-color: #f8b224;
+}

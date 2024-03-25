@@ -1,0 +1,20 @@
+.btn_container {
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.card_title {
+    text-transform: capitalize;
+    text-decoration: none;
+    /* padding: 5px 10px; */
+    border-bottom: 3px solid #f8b224;
+}
+
+.bottom_box{
+    background-color: #1b2c58;
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    flex-grow: 1;
+}
